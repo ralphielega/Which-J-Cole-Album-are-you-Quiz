@@ -1,0 +1,52 @@
+body {
+    background-color: black;
+}
+
+.dreamville {
+    width: 300px;
+    display: block;
+    margin: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title {
+    text-align: center;
+    border: solid white 2px;
+    padding: 3px;
+    font-family: 'Truculenta', sans-serif;
+    color: #fff;
+}
+
+.dollar {
+    font-family: 'Truculenta', sans-serif;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.questions {
+    color: #fff;
+    font-family: 'Truculenta', sans-serif;
+}
+.results{
+    color: #fff;
+    font-family: 'Truculenta', sans-serif;
+}
+.counter{
+     color: #fff;
+    font-family: 'Truculenta', sans-serif;
+    text-align: right;
+}
+.warm{
+    display:none;
+}
+.sinner{
+    display: none;
+}
+.kod{
+    display:none;
+}
+.youreyes{
+    display:none; 
+}
